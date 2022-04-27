@@ -1,0 +1,70 @@
+/*
+filename: Gianluca MT
+author: Gianluca MT
+created: 27/03/2019
+last modified: 27/03/2019
+description: apply.html css
+*/
+
+#applyjob {
+	border: 1px solid black;
+	float: center;
+	width: 40%;
+	text-align: left;
+	margin: 1em;
+	padding: 1em;
+	background-color: white;
+}
+
+#gender {
+	border: 1px solid black;
+	float: center;
+	width: 40%;
+	text-align: left;
+	margin: 1em;
+	padding: 1em;
+	background-color: white;
+	clear: both;
+}
+
+#address {
+	border: 1px solid black;
+	float: center;
+	width: 40%;
+	text-align: left;
+	margin: 1em;
+	padding: 1em;
+	background-color: white;
+	clear: both;
+}
+
+
+#comm {
+	border: 1px solid black;
+	float: center;
+	width: 40%;
+	text-align: left;
+	margin: 1em;
+	padding: 1em;
+	background-color: white;
+}
+
+#skills {
+	border: 1px solid black;
+	float: center;
+	width: 40%;
+	text-align: left;
+	margin: 1em;
+	padding: 1em;
+	background-color: white;
+}
+
+#applyjob, #gender, #address, #comm, #skills {
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#buttons {
+	clear: both;
+	text-align: center;
+}

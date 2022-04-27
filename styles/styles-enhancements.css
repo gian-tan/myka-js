@@ -1,0 +1,37 @@
+/*
+filename: Gianluca MT
+author: Gianluca MT
+created: 27/03/2019
+last modified: 27/03/2019
+description: enhancements.html css
+*/
+
+#updates1 {
+	border: 1px solid black;
+	float: left;
+	width: 25%;
+	text-align: left;
+	margin: 1em;
+	padding: 1em;
+	background-color: white;
+}
+
+#updates2 {
+	border: 1px solid black;
+	float: left;
+	width: 25%;
+	text-align: left;
+	margin: 1em;
+	padding: 1em;
+	background-color: white;
+}
+
+#updates3 {
+	border: 1px solid black;
+	float: left;
+	width: 25%;
+	text-align: left;
+	margin: 1em;
+	padding: 1em;
+	background-color: white;
+}

@@ -1,0 +1,48 @@
+/*
+filename: Gianluca MT
+author: Gianluca MT
+created: 18/03/2019
+last modified: 27/03/2019
+description: general css for the website
+*/
+
+#logo {
+	padding: 20px 10px 10px 10px;
+	float: left;
+	position: absolute;
+	clear: both;
+}
+
+.header {
+	padding: 10px;
+	text-align: center;
+	background: #37323E;
+	color: white;
+	float: center;
+}
+
+
+body{font-family: "agency fb";
+	font-size: 110%;
+	margin: 0;
+	background-color: #FCFFBC;
+}
+
+h2, h3, p {margin: 10px;}
+
+hr {border: 1px solid black;
+}
+
+nav a { text-decoration: none;
+		padding: 0.2em 0.4em;
+		background-color: #BFBDC1;
+}
+
+nav a::hover {background-color: #000000;}
+
+footer {clear: both;}
+footer p {
+	float: right;
+	text-align: right;
+	margin-right: 5px;
+}
